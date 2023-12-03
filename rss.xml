@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>萌傀儡</title>
+    <link>https://blhorizon.github.io/</link>
+    
+    <image>
+      <url>https://blhorizon.github.io/icon.png</url>
+      <title>萌傀儡</title>
+      <link>https://blhorizon.github.io/</link>
+    </image>
+    
+    <atom:link href="https://blhorizon.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>萌傀儡，萌傀儡的博客，这是一个分享知识的博客，珍惜现在，趁早摸鱼。</description>
+    <pubDate>Sun, 03 Dec 2023 17:35:50 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>分类卡片</title>
+      <link>https://blhorizon.github.io/posts/24bb4d9c.html</link>
+      <guid>https://blhorizon.github.io/posts/24bb4d9c.html</guid>
+      <pubDate>Wed, 25 Oct 2023 04:57:28 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;本文教程是来自&lt;a href=&quot;https://hcer.top/&quot;&gt;冰梦&lt;/a&gt;所发布的文章，更加详细的可以前往&lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blhorizon.github.io/categories/Hexo%E5%8D%9A%E5%AE%A2/">Hexo博客</category>
+      
+      
+      <category domain="https://blhorizon.github.io/tags/%E9%AD%94%E6%94%B9/">魔改</category>
+      
+      
+      <comments>https://blhorizon.github.io/posts/24bb4d9c.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>待办清单页</title>
+      <link>https://blhorizon.github.io/posts/95d8ff79.html</link>
+      <guid>https://blhorizon.github.io/posts/95d8ff79.html</guid>
+      <pubDate>Tue, 24 Oct 2023 17:21:38 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;最初是在 &lt;strong&gt;Leonus&lt;/strong&gt; 的 &lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blhorizon.github.io/categories/Hexo%E5%8D%9A%E5%AE%A2/">Hexo博客</category>
+      
+      
+      <category domain="https://blhorizon.github.io/tags/%E5%8A%9F%E8%83%BD/">功能</category>
+      
+      
+      <comments>https://blhorizon.github.io/posts/95d8ff79.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Hexo搜索功能</title>
+      <link>https://blhorizon.github.io/posts/4e29.html</link>
+      <guid>https://blhorizon.github.io/posts/4e29.html</guid>
+      <pubDate>Tue, 24 Oct 2023 16:39:49 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;本地搜索&quot;&gt;&lt;a href=&quot;#本地搜索&quot; class=&quot;headerlink&quot; title=&quot;本地搜索&quot;&gt;&lt;/a&gt;本地搜索&lt;/h2&gt;&lt;p&gt;当你的博客文章数据&lt;strong&gt;不多&lt;/strong&gt;时，使用 &lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blhorizon.github.io/categories/Hexo%E5%8D%9A%E5%AE%A2/">Hexo博客</category>
+      
+      
+      <category domain="https://blhorizon.github.io/tags/%E5%8A%9F%E8%83%BD/">功能</category>
+      
+      
+      <comments>https://blhorizon.github.io/posts/4e29.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Twikoo评论部署</title>
+      <link>https://blhorizon.github.io/posts/d924f329.html</link>
+      <guid>https://blhorizon.github.io/posts/d924f329.html</guid>
+      <pubDate>Fri, 13 Oct 2023 14:03:49 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;通过使用 &lt;strong&gt;Vercel + MongoDB&lt;/strong&gt;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blhorizon.github.io/categories/Hexo%E5%8D%9A%E5%AE%A2/">Hexo博客</category>
+      
+      
+      <category domain="https://blhorizon.github.io/tags/%E5%8A%9F%E8%83%BD/">功能</category>
+      
+      
+      <comments>https://blhorizon.github.io/posts/d924f329.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>搭建Hexo博客</title>
+      <link>https://blhorizon.github.io/posts/c1d5d64c.html</link>
+      <guid>https://blhorizon.github.io/posts/c1d5d64c.html</guid>
+      <pubDate>Fri, 13 Oct 2023 10:35:08 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;初步搭建&quot;&gt;&lt;a href=&quot;#初步搭建&quot; class=&quot;headerlink&quot; title=&quot;初步搭建&quot;&gt;&lt;/a&gt;初步搭建&lt;/h2&gt;&lt;p&gt;Hexo 是一个快速、简洁且高效的 &lt;strong&gt;静态&lt;/strong&gt; 博客框架，它是基于</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blhorizon.github.io/categories/Hexo%E5%8D%9A%E5%AE%A2/">Hexo博客</category>
+      
+      
+      <category domain="https://blhorizon.github.io/tags/%E6%90%AD%E5%BB%BA/">搭建</category>
+      
+      
+      <comments>https://blhorizon.github.io/posts/c1d5d64c.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>解决SM.MS图床访问</title>
+      <link>https://blhorizon.github.io/posts/3c588f54.html</link>
+      <guid>https://blhorizon.github.io/posts/3c588f54.html</guid>
+      <pubDate>Wed, 13 Sep 2023 07:34:38 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;突然间 SM.MS图床 的图片访问不了，同时也发现 &lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blhorizon.github.io/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/">技术教程</category>
+      
+      
+      <category domain="https://blhorizon.github.io/tags/SM-MS/">SM.MS</category>
+      
+      
+      <comments>https://blhorizon.github.io/posts/3c588f54.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>哔哩哔哩卡片标签外挂</title>
+      <link>https://blhorizon.github.io/posts/94703d10.html</link>
+      <guid>https://blhorizon.github.io/posts/94703d10.html</guid>
+      <pubDate>Tue, 12 Sep 2023 20:57:11 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;通过&lt;strong&gt;标签外挂&lt;/strong&gt;为博客添加一个&lt;strong&gt;b站视频卡片样式&lt;/strong&gt;。本篇文章原教程来自</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blhorizon.github.io/categories/Hexo%E5%8D%9A%E5%AE%A2/">Hexo博客</category>
+      
+      
+      <category domain="https://blhorizon.github.io/tags/%E5%8A%9F%E8%83%BD/">功能</category>
+      
+      <category domain="https://blhorizon.github.io/tags/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9/">哔哩哔哩</category>
+      
+      <category domain="https://blhorizon.github.io/tags/%E6%A0%87%E7%AD%BE%E5%A4%96%E6%8C%82/">标签外挂</category>
+      
+      
+      <comments>https://blhorizon.github.io/posts/94703d10.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>我的收藏页面实现</title>
+      <link>https://blhorizon.github.io/posts/21d4f9a2.html</link>
+      <guid>https://blhorizon.github.io/posts/21d4f9a2.html</guid>
+      <pubDate>Tue, 12 Sep 2023 20:28:30 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;本文教程是来自&lt;a href=&quot;https://blog.leonus.cn/&quot;&gt;Leonus&lt;/a&gt;所发布的文章，更加详细的可以前往&lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blhorizon.github.io/categories/Hexo%E5%8D%9A%E5%AE%A2/">Hexo博客</category>
+      
+      
+      <category domain="https://blhorizon.github.io/tags/%E5%8A%9F%E8%83%BD/">功能</category>
+      
+      
+      <comments>https://blhorizon.github.io/posts/21d4f9a2.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>首页背景图渐进式加载</title>
+      <link>https://blhorizon.github.io/posts/29ff7730.html</link>
+      <guid>https://blhorizon.github.io/posts/29ff7730.html</guid>
+      <pubDate>Tue, 15 Aug 2023 08:41:40 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;看了 铭心石刻 的 &lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blhorizon.github.io/categories/Hexo%E5%8D%9A%E5%AE%A2/">Hexo博客</category>
+      
+      
+      <category domain="https://blhorizon.github.io/tags/%E5%8A%9F%E8%83%BD/">功能</category>
+      
+      
+      <comments>https://blhorizon.github.io/posts/29ff7730.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>基于Memos实现闲言碎语和待办项功能</title>
+      <link>https://blhorizon.github.io/posts/f27cb9bd.html</link>
+      <guid>https://blhorizon.github.io/posts/f27cb9bd.html</guid>
+      <pubDate>Tue, 15 Aug 2023 08:37:54 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;当前的闲言碎语界面是参考 Leonus大佬 的文章 &lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blhorizon.github.io/categories/Hexo%E5%8D%9A%E5%AE%A2/">Hexo博客</category>
+      
+      
+      <category domain="https://blhorizon.github.io/tags/%E5%8A%9F%E8%83%BD/">功能</category>
+      
+      
+      <comments>https://blhorizon.github.io/posts/f27cb9bd.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Chrome的SameSite属性</title>
+      <link>https://blhorizon.github.io/posts/fd99a4c3.html</link>
+      <guid>https://blhorizon.github.io/posts/fd99a4c3.html</guid>
+      <pubDate>Sat, 22 Jul 2023 13:00:49 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;在本地部署Hexo时，于开发者日志中开到如下的问题信息&lt;br&gt;&lt;img</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blhorizon.github.io/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/">技术教程</category>
+      
+      
+      <category domain="https://blhorizon.github.io/tags/Chrome%E7%9B%B8%E5%85%B3/">Chrome相关</category>
+      
+      
+      <comments>https://blhorizon.github.io/posts/fd99a4c3.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>文章统计页面</title>
+      <link>https://blhorizon.github.io/posts/adff8459.html</link>
+      <guid>https://blhorizon.github.io/posts/adff8459.html</guid>
+      <pubDate>Tue, 18 Jul 2023 13:36:54 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;本文教程是来自&lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blhorizon.github.io/categories/Hexo%E5%8D%9A%E5%AE%A2/">Hexo博客</category>
+      
+      
+      <category domain="https://blhorizon.github.io/tags/%E5%8A%9F%E8%83%BD/">功能</category>
+      
+      
+      <comments>https://blhorizon.github.io/posts/adff8459.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Github上传主题文件</title>
+      <link>https://blhorizon.github.io/posts/257f258a.html</link>
+      <guid>https://blhorizon.github.io/posts/257f258a.html</guid>
+      <pubDate>Sat, 24 Jun 2023 08:52:21 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;blockquote&gt;
+&lt;p&gt;参考自：&lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blhorizon.github.io/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/">技术教程</category>
+      
+      
+      <category domain="https://blhorizon.github.io/tags/%E5%8D%9A%E5%AE%A2/">博客</category>
+      
+      <category domain="https://blhorizon.github.io/tags/%E4%B8%BB%E9%A2%98%E6%96%87%E4%BB%B6/">主题文件</category>
+      
+      
+      <comments>https://blhorizon.github.io/posts/257f258a.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>侧边栏欢迎语</title>
+      <link>https://blhorizon.github.io/posts/37d43a26.html</link>
+      <guid>https://blhorizon.github.io/posts/37d43a26.html</guid>
+      <pubDate>Sun, 11 Jun 2023 12:38:43 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;为博客的&lt;strong&gt;侧边栏&lt;/strong&gt;添加一个欢迎语。本篇文章原教程来自 &lt;strong&gt;Kouseki&lt;/strong&gt;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blhorizon.github.io/categories/Hexo%E5%8D%9A%E5%AE%A2/">Hexo博客</category>
+      
+      
+      <category domain="https://blhorizon.github.io/tags/%E5%8A%9F%E8%83%BD/">功能</category>
+      
+      
+      <comments>https://blhorizon.github.io/posts/37d43a26.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>利用Github搭建NPM图床</title>
+      <link>https://blhorizon.github.io/posts/be3e28ff.html</link>
+      <guid>https://blhorizon.github.io/posts/be3e28ff.html</guid>
+      <pubDate>Sat, 10 Jun 2023 12:24:27 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;通过&lt;strong&gt;NPM +</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blhorizon.github.io/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/">技术教程</category>
+      
+      
+      <category domain="https://blhorizon.github.io/tags/%E5%9B%BE%E5%BA%8A/">图床</category>
+      
+      
+      <comments>https://blhorizon.github.io/posts/be3e28ff.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>安知鱼主题标签 Tag Plugins</title>
+      <link>https://blhorizon.github.io/posts/d50a.html</link>
+      <guid>https://blhorizon.github.io/posts/d50a.html</guid>
+      <pubDate>Thu, 01 Jun 2023 07:55:44 GMT</pubDate>
+      
+      <description>添加大量外挂标签样式。</description>
+      
+      
+      
+      
+      <category domain="https://blhorizon.github.io/categories/Hexo%E5%8D%9A%E5%AE%A2/">Hexo博客</category>
+      
+      
+      <category domain="https://blhorizon.github.io/tags/%E5%8A%9F%E8%83%BD/">功能</category>
+      
+      <category domain="https://blhorizon.github.io/tags/%E6%A0%87%E7%AD%BE%E5%A4%96%E6%8C%82/">标签外挂</category>
+      
+      
+      <comments>https://blhorizon.github.io/posts/d50a.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>U盘重装系统</title>
+      <link>https://blhorizon.github.io/posts/97f26e5d.html</link>
+      <guid>https://blhorizon.github.io/posts/97f26e5d.html</guid>
+      <pubDate>Fri, 26 May 2023 13:40:28 GMT</pubDate>
+      
+      <description>U盘重装系统</description>
+      
+      
+      
+      
+      <category domain="https://blhorizon.github.io/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/">技术教程</category>
+      
+      
+      <category domain="https://blhorizon.github.io/tags/%E9%87%8D%E8%A3%85%E7%B3%BB%E7%BB%9F/">重装系统</category>
+      
+      
+      <comments>https://blhorizon.github.io/posts/97f26e5d.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>利用51LA进行网站数据统计</title>
+      <link>https://blhorizon.github.io/posts/d75f59bb.html</link>
+      <guid>https://blhorizon.github.io/posts/d75f59bb.html</guid>
+      <pubDate>Fri, 26 May 2023 05:47:21 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;通过 &lt;a href=&quot;https://v6.51.la/&quot;&gt;51LA&lt;/a&gt;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blhorizon.github.io/categories/Hexo%E5%8D%9A%E5%AE%A2/">Hexo博客</category>
+      
+      
+      <category domain="https://blhorizon.github.io/tags/%E5%8A%9F%E8%83%BD/">功能</category>
+      
+      
+      <comments>https://blhorizon.github.io/posts/d75f59bb.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>获取朋友圈API</title>
+      <link>https://blhorizon.github.io/posts/6895678f.html</link>
+      <guid>https://blhorizon.github.io/posts/6895678f.html</guid>
+      <pubDate>Sat, 25 Mar 2023 09:05:25 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;blockquote&gt;
+&lt;p&gt;参考自：&lt;a href=&quot;https://fcircle-doc.yyyzyyyz.cn/#/&quot;&gt;朋友圈&lt;/a&gt;，根据步骤进行朋友圈 &lt;strong&gt;后端部署&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blhorizon.github.io/categories/Hexo%E5%8D%9A%E5%AE%A2/">Hexo博客</category>
+      
+      
+      <category domain="https://blhorizon.github.io/tags/%E5%8A%9F%E8%83%BD/">功能</category>
+      
+      
+      <comments>https://blhorizon.github.io/posts/6895678f.html#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
