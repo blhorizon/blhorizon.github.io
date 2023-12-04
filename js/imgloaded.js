@@ -81,10 +81,10 @@ if (!window.ProgressiveLoad) {
   };
 
   const config = {
-    smallSrc: 'https://t.mwm.moe/moez', // 小图链接 尽可能配置小于100k的图片
-    largeSrc: 'https://t.mwm.moe/moez', // 大图链接 最终显示的图片
-    mobileSmallSrc: 'https://t.mwm.moe/moez', // 手机端小图链接 尽可能配置小于100k的图片
-    mobileLargeSrc: 'https://t.mwm.moe/moez', // 手机端大图链接 最终显示的图片
+    smallSrc: 'https://api.qjqq.cn/api/Img?sort=acg', // 小图链接 尽可能配置小于100k的图片
+    largeSrc: 'https://api.qjqq.cn/api/Img?sort=acg', // 大图链接 最终显示的图片
+    mobileSmallSrc: 'https://www.loliapi.com/acg/pe/', // 手机端小图链接 尽可能配置小于100k的图片
+    mobileLargeSrc: 'https://www.loliapi.com/acg/pe/', // 手机端大图链接 最终显示的图片
     enableRoutes: ['/'],
     };
 
