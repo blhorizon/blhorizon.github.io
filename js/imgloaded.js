@@ -67,7 +67,7 @@ if (!window.ProgressiveLoad) {
   }
 
   const executeLoad = (config, target) => {
-    console.log('执行渐进背景替换');
+    // console.log('执行渐进背景替换');
     const isMobile = window.matchMedia('(max-width: 767px)').matches;
     const loader = new ProgressiveLoad(
       isMobile ? config.mobileSmallSrc : config.smallSrc,

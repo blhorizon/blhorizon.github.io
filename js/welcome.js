@@ -478,7 +478,7 @@ function showWelcome() {
         document.getElementById("welcome-info").innerHTML =
             `欢迎来自 <b><span style="color: var(--kouseki-ip-color);font-size: var(--kouseki-gl-size)">${pos}</span></b> 的小友💖<br>${posdesc}🍂<br>当前位置距博主约 <b><span style="color: var(--kouseki-ip-color)">${dist}</span></b> 公里！<br>您的IP地址为：<b><span style="font-size: 12px;">${ip}</span></b><br>${timeChange} <br>`;
     } catch (err) {
-        console.log("Pjax无法获取元素");
+        // console.log("Pjax无法获取元素");
     }
 }
 
