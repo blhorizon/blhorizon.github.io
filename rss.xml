@@ -15,8 +15,117 @@
     <atom:link href="https://blhorizon.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>萌傀儡，萌傀儡的博客，这是一个分享知识的博客，珍惜现在，趁早摸鱼。</description>
-    <pubDate>Sun, 03 Dec 2023 17:35:50 GMT</pubDate>
+    <pubDate>Tue, 19 Mar 2024 05:44:50 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>软件测试基础(二)</title>
+      <link>https://blhorizon.github.io/posts/7a241c67.html</link>
+      <guid>https://blhorizon.github.io/posts/7a241c67.html</guid>
+      <pubDate>Tue, 19 Mar 2024 04:07:43 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;&lt;img</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blhorizon.github.io/categories/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/">软件测试</category>
+      
+      
+      <category domain="https://blhorizon.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%9F%BA%E7%A1%80/">软件测试基础</category>
+      
+      
+      <comments>https://blhorizon.github.io/posts/7a241c67.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>软件测试基础(一)</title>
+      <link>https://blhorizon.github.io/posts/d5158705.html</link>
+      <guid>https://blhorizon.github.io/posts/d5158705.html</guid>
+      <pubDate>Tue, 19 Mar 2024 01:13:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;&lt;img</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blhorizon.github.io/categories/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/">软件测试</category>
+      
+      
+      <category domain="https://blhorizon.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%9F%BA%E7%A1%80/">软件测试基础</category>
+      
+      
+      <comments>https://blhorizon.github.io/posts/d5158705.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Excel学习笔记之操作表格</title>
+      <link>https://blhorizon.github.io/posts/83221823.html</link>
+      <guid>https://blhorizon.github.io/posts/83221823.html</guid>
+      <pubDate>Sun, 03 Mar 2024 14:01:55 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;在你浏览表格的数据时，常会在第n个列时不知道该列代表什么，这时可以在&lt;strong&gt;视图&lt;/strong&gt;中冻结该窗口&lt;br&gt;&lt;img</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blhorizon.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/">学习笔记</category>
+      
+      
+      <category domain="https://blhorizon.github.io/tags/Excel/">Excel</category>
+      
+      
+      <comments>https://blhorizon.github.io/posts/83221823.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Excel学习笔记之入门</title>
+      <link>https://blhorizon.github.io/posts/74f74261.html</link>
+      <guid>https://blhorizon.github.io/posts/74f74261.html</guid>
+      <pubDate>Sun, 03 Mar 2024 10:18:07 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;Excel在界面上都是由多个&lt;strong&gt;储存格&lt;/strong&gt;所组成，这些储存格可以用来&lt;strong&gt;输入资料&lt;/strong&gt;或&lt;strong&gt;设定公式&lt;/strong&gt;，此外储存格还有一个重要的特点：每个都想地图上的坐标点那样有特点的&lt;strong&gt;参照位置&lt;/</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blhorizon.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/">学习笔记</category>
+      
+      
+      <category domain="https://blhorizon.github.io/tags/Excel/">Excel</category>
+      
+      
+      <comments>https://blhorizon.github.io/posts/74f74261.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>分类卡片</title>
@@ -450,84 +559,6 @@
       
       
       <comments>https://blhorizon.github.io/posts/d50a.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>U盘重装系统</title>
-      <link>https://blhorizon.github.io/posts/97f26e5d.html</link>
-      <guid>https://blhorizon.github.io/posts/97f26e5d.html</guid>
-      <pubDate>Fri, 26 May 2023 13:40:28 GMT</pubDate>
-      
-      <description>U盘重装系统</description>
-      
-      
-      
-      
-      <category domain="https://blhorizon.github.io/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/">技术教程</category>
-      
-      
-      <category domain="https://blhorizon.github.io/tags/%E9%87%8D%E8%A3%85%E7%B3%BB%E7%BB%9F/">重装系统</category>
-      
-      
-      <comments>https://blhorizon.github.io/posts/97f26e5d.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>利用51LA进行网站数据统计</title>
-      <link>https://blhorizon.github.io/posts/d75f59bb.html</link>
-      <guid>https://blhorizon.github.io/posts/d75f59bb.html</guid>
-      <pubDate>Fri, 26 May 2023 05:47:21 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;通过 &lt;a href=&quot;https://v6.51.la/&quot;&gt;51LA&lt;/a&gt;</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://blhorizon.github.io/categories/Hexo%E5%8D%9A%E5%AE%A2/">Hexo博客</category>
-      
-      
-      <category domain="https://blhorizon.github.io/tags/%E5%8A%9F%E8%83%BD/">功能</category>
-      
-      
-      <comments>https://blhorizon.github.io/posts/d75f59bb.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>获取朋友圈API</title>
-      <link>https://blhorizon.github.io/posts/6895678f.html</link>
-      <guid>https://blhorizon.github.io/posts/6895678f.html</guid>
-      <pubDate>Sat, 25 Mar 2023 09:05:25 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;blockquote&gt;
-&lt;p&gt;参考自：&lt;a href=&quot;https://fcircle-doc.yyyzyyyz.cn/#/&quot;&gt;朋友圈&lt;/a&gt;，根据步骤进行朋友圈 &lt;strong&gt;后端部署&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://blhorizon.github.io/categories/Hexo%E5%8D%9A%E5%AE%A2/">Hexo博客</category>
-      
-      
-      <category domain="https://blhorizon.github.io/tags/%E5%8A%9F%E8%83%BD/">功能</category>
-      
-      
-      <comments>https://blhorizon.github.io/posts/6895678f.html#disqus_thread</comments>
       
     </item>
     
