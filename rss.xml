@@ -15,8 +15,37 @@
     <atom:link href="https://blhorizon.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>萌傀儡，萌傀儡的博客，这是一个分享知识的博客，珍惜现在，趁早摸鱼。</description>
-    <pubDate>Thu, 21 Mar 2024 02:24:02 GMT</pubDate>
+    <pubDate>Tue, 26 Mar 2024 01:53:36 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>软件测试基础(三)</title>
+      <link>https://blhorizon.github.io/posts/4d73c4c.html</link>
+      <guid>https://blhorizon.github.io/posts/4d73c4c.html</guid>
+      <pubDate>Tue, 26 Mar 2024 01:48:56 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;测试用例需要在软件开发完成前做好。在将软件成品交付给你进行测试时，通过测试用例去验证该软件&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;缺陷&lt;/strong&gt;：实际测试结果与测试用例的预期结果不一致&lt;/p&gt;
+</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blhorizon.github.io/categories/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/">软件测试</category>
+      
+      
+      <category domain="https://blhorizon.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%9F%BA%E7%A1%80/">软件测试基础</category>
+      
+      
+      <comments>https://blhorizon.github.io/posts/4d73c4c.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>软件测试基础(二)</title>
@@ -536,29 +565,6 @@
       
       
       <comments>https://blhorizon.github.io/posts/be3e28ff.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>安知鱼主题标签 Tag Plugins</title>
-      <link>https://blhorizon.github.io/posts/d50a.html</link>
-      <guid>https://blhorizon.github.io/posts/d50a.html</guid>
-      <pubDate>Thu, 01 Jun 2023 07:55:44 GMT</pubDate>
-      
-      <description>添加大量外挂标签样式。</description>
-      
-      
-      
-      
-      <category domain="https://blhorizon.github.io/categories/Hexo%E5%8D%9A%E5%AE%A2/">Hexo博客</category>
-      
-      
-      <category domain="https://blhorizon.github.io/tags/%E5%8A%9F%E8%83%BD/">功能</category>
-      
-      <category domain="https://blhorizon.github.io/tags/%E6%A0%87%E7%AD%BE%E5%A4%96%E6%8C%82/">标签外挂</category>
-      
-      
-      <comments>https://blhorizon.github.io/posts/d50a.html#disqus_thread</comments>
       
     </item>
     
