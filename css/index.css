@@ -12560,6 +12560,7 @@ mjx-container[display],
   -o-transition: 0.3s;
   -ms-transition: 0.3s;
   transition: 0.3s;
+  border: 1px solid #e0e3ed !important;
 }
 .bilibili_box:hover {
   border-color: #49b1f5 !important;
@@ -12579,7 +12580,7 @@ mjx-container[display],
 .bilibili_box .bilibili_cover {
   width: 234px;
   position: relative;
-  margin: auto 0;
+  margin: auto -3px;
 }
 @media screen and (max-width: 768px) {
   .bilibili_box .bilibili_cover {
